@@ -1,0 +1,5 @@
+/venv
+rest_auth_token/db.sqlite3
+rest_auth_token/migrations
+rest_auth_token/__pycache__
+rest_auth_token/myauth/__pycache__
